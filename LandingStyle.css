@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
 
 body {
-    background-color: #1d2e1f;
+    background-color: #151715;
     /* background-image: linear-gradient(
         rgba(0, 0, 255, 0.2), #1c2619 102% 
     ); */
-    background-image: repeating-linear-gradient(rgba(0, 0, 255, 0.2), rgba(0, 0, 255, 0.2),#1c2619  102% ); 
+    background-image: repeating-linear-gradient(rgba(22, 22, 33, 0.2), rgba(27, 27, 30, 0.2),#222522  102% ); 
 
     height: 100vh;
 
